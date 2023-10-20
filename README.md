@@ -7,7 +7,7 @@ Download datasets:
 
 
 
-* **CMU Panoptic** (Biwi Kinect Head Pose Database) from [here](http://domedb.perception.cs.cmu.edu/)
+* **CMU Panoptic**  from [here](http://domedb.perception.cs.cmu.edu/)
 
 
 
