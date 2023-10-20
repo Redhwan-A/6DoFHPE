@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">  
-Gif: 6Do-FHPE.  
+Gif: 6DoF-HPE.  
 </p>
   
 
