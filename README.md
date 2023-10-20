@@ -11,6 +11,8 @@
 
 
 # Results visualization
+* **Full-range angles** 
+![example1](./images/full_range.png)
 <table>
 <tr>
 <td><img src="images/cmu1.jpg" height="160"></td>
@@ -20,9 +22,10 @@
 <td><img src="images/cmu15.jpg" height="160"></td>
 <td><img src="images/cmu18.jpg" height="160"></td> 
 <td><img src="images/cmu20.jpg" height="160"></td> 
-
 </tr>
 </table>
+
+* **Fig. 1.** Snapshots of 7 different views from one sequence in the CMU Panoptic val-set dataset.
 
 # Datasets
 
