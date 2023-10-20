@@ -19,6 +19,8 @@
 
 
 ## **Our results**
+* **Trained and tested on CMU Panoptic datasets.**
+
 
 | Method         | Retrain? | Yaw   | Pitch | Roll  | MAE   |
 |----------------|----------|-------|-------|-------|-------|
