@@ -21,7 +21,6 @@ from torch.backends import cudnn
 from torch.utils import model_zoo
 import torchvision
 from torchvision import transforms
-from face_detection import RetinaFace
 import matplotlib
 from matplotlib import pyplot as plt
 from PIL import Image
