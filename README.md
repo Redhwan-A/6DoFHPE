@@ -1,9 +1,20 @@
 # HPE
 Frm-Hpe: Full-Range Markerless Head Pose Estimation
 
-# Citing
+# Preparing datasets
+Download datasets:
 
-If you find our work useful, please cite the paper:
+* **300W-LP**, **AFLW2000** from [here](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm).
+
+* **BIWI** (Biwi Kinect Head Pose Database) from [here](https://icu.ee.ethz.ch/research/datsets.html)
+
+Store them in the *datasets* directory.
+
+For 300W-LP and AFLW2000 we need to create a *filenamelist*.
+```
+python create_filename_list.py --root_dir datasets/300W_LP
+```
+
 
 
 
@@ -23,3 +34,12 @@ If you find our work useful, please cite the paper:
 | Frm-Hpe (ours) |  Yes    | **5.83**   | **7.63**   | **6.35**   | **6.60** |
 
 
+
+
+
+
+
+
+# Citing
+
+Coming soon!
