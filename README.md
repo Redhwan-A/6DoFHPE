@@ -15,11 +15,11 @@ If you find our work useful, please cite the paper:
 | DirectMHP (Yes)|  Yes    | 5.86   | 8.25   | 7.25   | 7.12   |
 | DirectMHP (No) |  No     | 5.75   | 8.01   | 6.96   | 6.91   |
 | 6DRepNet (Yes) |  Yes    | 5.20   | 7.22   | 6.00   | 6.14   |
-| Frm-Hpe (ours) |  Yes    | 5.13   | 6.99   | 5.77   | 5.96   |
+| Frm-Hpe (ours) |  Yes    | **5.13   | 6.99   | 5.77   | 5.96**   |
 | WHENet         |   No     | 29.87  | 19.88  | 14.66  | 21.47  |
 | DirectMHP      |  Yes     | 7.38   | 8.56   | 7.47   | 7.80   |
 | DirectMHP      |  No     | 7.32   | 8.54   | 7.35   | 7.74   |
 | 6DRepNet       |  Yes    | 5.89   | 7.76   | 6.39   | 6.68   |
-| Frm-Hpe (ours) |  Yes    | 5.83   | 7.63   | 6.35   | 6.60   |
+| Frm-Hpe (ours) |  Yes    | **5.83   | 7.63   | 6.35   | 6.60 **  |
 
 
