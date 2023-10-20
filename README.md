@@ -16,7 +16,9 @@
 <p align="center">  
 Gif: 6DoF-HPE.  
 </p>
-  
+
+* **Video**   You can see a demo video [here](https://www.youtube.com/watch?v=WWmBZ_2eiaE) and [here](https://www.youtube.com/watch?v=j6g8TqtIwKw&t=9s), which displays a comparison between our work with other works.
+
 
 <table>
 <tr>
