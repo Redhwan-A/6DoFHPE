@@ -32,9 +32,7 @@ Gif: 6Do-FHPE.
 
 * **Fig.** Snapshots of 7 different views from one sequence in the CMU Panoptic val-set dataset.
 
-# Datasets
 
-* **CMU Panoptic**  from [here](http://domedb.perception.cs.cmu.edu/).
 
 
 
@@ -60,6 +58,13 @@ Gif: 6Do-FHPE.
 
 
 * **Trained on 300W-LP, and then test on AFLW2000 and BIWI.**
+
+
+# Datasets
+
+* **CMU Panoptic**  from [here](http://domedb.perception.cs.cmu.edu/).
+
+  
 
 ## **Run demo codes**
 
