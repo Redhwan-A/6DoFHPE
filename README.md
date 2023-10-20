@@ -4,7 +4,7 @@ Real-time 6DoF Full-Range Markerless Head Pose Estimation
 # Preparing datasets
 Download datasets:
 
-**CMU Panoptic** from [here](https://icu.ee.ethz.ch/research/datsets.html)
+* **CMU Panoptic** from [here](https://icu.ee.ethz.ch/research/datsets.html)
 
 
 
