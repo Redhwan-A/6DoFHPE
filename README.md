@@ -1,6 +1,12 @@
 # 6DoF-HPE
 Real-time 6DoF Full-Range Markerless Head Pose Estimation
 
+
+<p align="center">
+  <img src="https://github.com/Redhwan-A/6DoF-HPE/blob/main/gif/6DoF-Hpe.gif" alt="animated" />
+</p>
+
+
 # Preparing datasets
 
 * **CMU Panoptic**  from [here](http://domedb.perception.cs.cmu.edu/)
