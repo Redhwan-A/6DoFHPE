@@ -1,9 +1,15 @@
 # 6DoFHPE
 **Paper titled: Real-time 6DoF Full-Range Markerless Head Pose Estimation**
 
+
+
+
+
 <p align="center">
   <img src="https://github.com/Redhwan-A/6DoF-HPE/blob/main/gif/6DoF-Hpe.gif" alt="animated" />
 </p>
+
+
 
 
 # Datasets
