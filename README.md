@@ -1,19 +1,11 @@
-# HPE
-Frm-Hpe: Full-Range Markerless Head Pose Estimation
+# 6DoF-HPE
+Real-time 6DoF Full-Range Markerless Head Pose Estimation
 
 # Preparing datasets
 Download datasets:
 
-* **300W-LP**, **AFLW2000** from [here](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm).
+**CMU Panoptic** from [here]([http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm](http://domedb.perception.cs.cmu.edu/)).
 
-* **BIWI** (Biwi Kinect Head Pose Database) from [here](https://icu.ee.ethz.ch/research/datsets.html)
-
-Store them in the *datasets* directory.
-
-For 300W-LP and AFLW2000 we need to create a *filenamelist*.
-```
-python create_filename_list.py --root_dir datasets/300W_LP
-```
 
 
 ## **Our results**
