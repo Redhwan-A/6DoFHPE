@@ -9,7 +9,7 @@ Download datasets:
 
 * **BIWI** (Biwi Kinect Head Pose Database) from [here](https://icu.ee.ethz.ch/research/datsets.html)
 
-* **BIWI** (Biwi Kinect Head Pose Database) from [here](http://domedb.perception.cs.cmu.edu/)
+* **CMU Panoptic** (Biwi Kinect Head Pose Database) from [here](http://domedb.perception.cs.cmu.edu/)
 
 
 
