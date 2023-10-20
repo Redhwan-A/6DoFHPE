@@ -13,13 +13,13 @@
 # Results visualization
 <table>
 <tr>
-<td><img src="./test_imgs/COCO/000000002685.jpg" height="160"></td>
-<td><img src="./test_imgs/COCO/000000018380.jpg" height="160"></td> 
-<td><img src="./test_imgs/COCO/000000038829.jpg" height="160"></td> 
-<td><img src="./test_imgs/COCO/000000161925.jpg" height="160"></td> 
-<td><img src="./materials/000000002685_vis3d_res.jpg" height="160"></td>
-<td><img src="./materials/000000018380_vis3d_res.jpg" height="160"></td> 
-<td><img src="./materials/000000038829_vis3d_res.jpg" height="160"></td> 
+<td><img src="images/cmu1.jpg" height="160"></td>
+<td><img src="images/cmu4.jpg" height="160"></td> 
+<td><img src="images/cmu13.jpg" height="160"></td> 
+<td><img src="images/cmu14.jpg" height="160"></td> 
+<td><img src="images/cmu15.jpg" height="160"></td>
+<td><img src="images/cmu18.jpg" height="160"></td> 
+<td><img src="images/cmu20.jpg" height="160"></td> 
 
 </tr>
 </table>
