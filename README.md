@@ -6,7 +6,7 @@
 </p>
 
 
-# datasets
+# Datasets
 
 * **CMU Panoptic**  from [here](http://domedb.perception.cs.cmu.edu/)
 
