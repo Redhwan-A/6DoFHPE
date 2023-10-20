@@ -64,9 +64,9 @@ Gif: 6DoF-HPE.
 
 * **CMU Panoptic**  from [here](http://domedb.perception.cs.cmu.edu/).
   
-* **300W-LP**, **AFLW2000** from [here](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm).
+* **300W-LP**, and **AFLW2000** from [here](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm).
 
-* **BIWI** (Biwi Kinect Head Pose Database) from [here](https://icu.ee.ethz.ch/research/datsets.html)
+* **BIWI**  from [here](https://icu.ee.ethz.ch/research/datsets.html)
 
   
 
