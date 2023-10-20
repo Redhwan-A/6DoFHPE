@@ -5,9 +5,7 @@ Real-time 6DoF Full-Range Markerless Head Pose Estimation
 Download datasets:
 
 
-* **300W-LP**, **AFLW2000** from [here](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm).
 
-* **BIWI** (Biwi Kinect Head Pose Database) from [here](https://icu.ee.ethz.ch/research/datsets.html)
 
 * **CMU Panoptic** (Biwi Kinect Head Pose Database) from [here](http://domedb.perception.cs.cmu.edu/)
 
