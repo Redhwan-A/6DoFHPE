@@ -41,7 +41,7 @@
 
 * **Trained on 300W-LP, and then test on AFLW2000 and BIWI.**
 
-## **Run code**
+## **Run demo codes**
 
 Download the pre-trained RepVGG model '**cmu.pth**'  for the full range angles or '**300W_LP.pth**' for narrow range angles from [here](https://drive.google.com/drive/folders/1Avome4KvNp0Lqh2QwhXO6L5URQjzCjUq) and the pre-trained SSD model '**Head_detection_300x300.pb**' from [here](https://drive.google.com/drive/folders/1Avome4KvNp0Lqh2QwhXO6L5URQjzCjUq) and then save them in their certain directory (please see our code to know their paths).
 
