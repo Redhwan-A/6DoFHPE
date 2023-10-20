@@ -1,4 +1,4 @@
-# 6DoF-HPE
+# 6DoFHPE
 **Paper titled: Real-time 6DoF Full-Range Markerless Head Pose Estimation**
 
 <p align="center">
