@@ -14,7 +14,7 @@
 
 # Datasets
 
-* **CMU Panoptic**  from [here](http://domedb.perception.cs.cmu.edu/)
+* **CMU Panoptic**  from [here](http://domedb.perception.cs.cmu.edu/).
 
 
 
@@ -38,7 +38,7 @@
 
 
 
-To run **demo_6DoF.py**. You need to install ROS from [here](https://wiki.ros.org/Distributions)
+To run **demo_6DoF.py**. You need to install ROS from [here](https://wiki.ros.org/Distributions).
 
 The roscore can be launched using the roscore executable:
 
