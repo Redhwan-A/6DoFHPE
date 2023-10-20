@@ -38,14 +38,14 @@
 
 
 
-To run **demo_6DoF.py**. You need to install from [ROS]([http://domedb.perception.cs.cmu.edu/](https://wiki.ros.org/Distributions)) 
+To run **demo_6DoF.py**. You need to install from [ROS].([http://domedb.perception.cs.cmu.edu/](https://wiki.ros.org/Distributions)) 
 
 The roscore can be launched using the roscore executable:
 
 ```
 roscore
 ```
-
+Then run an RGB-D camera, for example, if it is  realsense d435i. 
 
 ```
 roslaunch realsense2_camera rs_camera.launch filters:=pointcloud,colorizer align_depth:=true ordered_pc:=true
