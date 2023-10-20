@@ -4,7 +4,7 @@ Real-time 6DoF Full-Range Markerless Head Pose Estimation
 # Preparing datasets
 Download datasets:
 
-**CMU Panoptic** from [here]([http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm](http://domedb.perception.cs.cmu.edu/)).
+**CMU Panoptic** from [here]([[http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm].
 
 
 
