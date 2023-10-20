@@ -77,11 +77,11 @@ Gif: 6DoF-HPE.
 
 # Datasets
 
-* **CMU Panoptic**  from [here](http://domedb.perception.cs.cmu.edu/).
+* **CMU Panoptic**  from [here](http://domedb.perception.cs.cmu.edu/) for the full range angles.
   
-* **300W-LP**, and **AFLW2000** from [here](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm).
+* **300W-LP**, and **AFLW2000** from [here](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm) for the narrow range angles.
 
-* **BIWI**  from [here](https://icu.ee.ethz.ch/research/datsets.html)
+* **BIWI**  from [here](https://icu.ee.ethz.ch/research/datsets.html) for the narrow range angles.
 
   
 
