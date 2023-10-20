@@ -38,7 +38,7 @@
 
 
 
-To run **demo_6DoF.py**. You need to install from [ROS].([here](https://wiki.ros.org/Distributions)) 
+To run **demo_6DoF.py**. You need to install ROS.([here](https://wiki.ros.org/Distributions)) 
 
 The roscore can be launched using the roscore executable:
 
