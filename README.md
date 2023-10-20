@@ -70,7 +70,7 @@ Gif: 6DoF-HPE.
 
 Download the pre-trained RepVGG model '**cmu.pth**'  for the full range angles or '**300W_LP.pth**' for narrow range angles from [here](https://drive.google.com/drive/folders/1Avome4KvNp0Lqh2QwhXO6L5URQjzCjUq) and the pre-trained SSD model '**Head_detection_300x300.pb**' from [here](https://drive.google.com/drive/folders/1Avome4KvNp0Lqh2QwhXO6L5URQjzCjUq) and then save them in their certain directory (please see our code to know their paths).
 
-To run **demo_3DoF.py**
+To run **demo_3DoF.py**. You can run it directly.
 
 But, to run **demo_6DoF.py**. You need to install ROS from [here](https://wiki.ros.org/Distributions).
 
