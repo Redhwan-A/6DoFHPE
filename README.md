@@ -96,7 +96,7 @@
 
 ## **Run demo codes**
 
-Download the pre-trained RepVGG model '**cmu.pth**'  for the full range angles or '**300W_LP.pth**' for narrow range angles from [here](https://drive.google.com/drive/folders/1Avome4KvNp0Lqh2QwhXO6L5URQjzCjUq) and the pre-trained SSD model '**Head_detection_300x300.pb**' from [here](https://drive.google.com/drive/folders/1Avome4KvNp0Lqh2QwhXO6L5URQjzCjUq) and then save them in their certain directory (please see our code to know their paths).
+Download the pre-trained RepVGG model '**cmu.pth**'  for the full range angles or '**300W_LP.pth**' for narrow range angles from [here](https://drive.google.com/drive/folders/1Du7GPb3Xf2eb5ZbWnXhbSFQxC1B3K7fG?usp=sharing) and the pre-trained SSD model '**Head_detection_300x300.pb**' from [here](https://drive.google.com/file/d/1ESdQQu4yjhdCTRq8iNYTQcXKNt5MsMV6/view?usp=sharing) and then save them in their certain directory (please see our code to know their paths).
 
 To run **demo_3DoF.py**. You can run it directly.
 ```
