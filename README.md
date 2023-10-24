@@ -14,18 +14,15 @@
 <table>
 <tr>
 <td><img src="https://github.com/Redhwan-A/6DoF-HPE/blob/main/gif/6DoF-Hpe.gif" height="240"></td>
-  <p>  
-Gif: 6DoF-HPE.  
-</p>
-<td><img src="https://github.com/Redhwan-A/6DoF-HPE/blob/main/gif/6DoF.gif" height="240"></td> 
-  <p>  
-Gif: 6DoF-HPE.  
-</p>
+<td><img src="https://github.com/Redhwan-A/6DoF-HPE/blob/main/gif/6DoF.gif" height="240"></td>  
 </tr>
 </table>
 
 <p>  
 Gif: 6DoF-HPE.  
+</p>
+ <p align="center">>  
+Gif: 6DoF-HPE (one by one).  
 </p>
 
 * **Video**:  You can see a demo video [here](https://www.youtube.com/watch?v=WWmBZ_2eiaE) and [here](https://www.youtube.com/watch?v=j6g8TqtIwKw&t=9s), which displays a comparison between our work with other works.
