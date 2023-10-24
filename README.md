@@ -14,7 +14,13 @@
 <table>
 <tr>
 <td><img src="https://github.com/Redhwan-A/6DoF-HPE/blob/main/gif/6DoF-Hpe.gif" height="240"></td>
+  <p>  
+Gif: 6DoF-HPE.  
+</p>
 <td><img src="https://github.com/Redhwan-A/6DoF-HPE/blob/main/gif/6DoF.gif" height="240"></td> 
+  <p>  
+Gif: 6DoF-HPE.  
+</p>
 </tr>
 </table>
 
