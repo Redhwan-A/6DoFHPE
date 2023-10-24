@@ -19,7 +19,7 @@
 </table>
 
 
-<p align="center">
+<p>
   Gif: 6DoF-HPE (left side)
 </p>
 <p align="center">
