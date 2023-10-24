@@ -18,13 +18,9 @@
 </tr>
 </table>
 
-<p>  
-Gif: 6DoF-HPE.  
-</p>
-
 
  <p align="center">>  
-Gif: 6DoF-HPE (one by one).  
+Gif: 6DoF-HPE (left side) and one by one (right side [source on 2023.10.24](https://kagenova.com/blog/tech/2018/07/03/6DOF-motion.html)).  
 </p>
 
 * **Video**:  You can see a demo video [here](https://www.youtube.com/watch?v=WWmBZ_2eiaE) and [here](https://www.youtube.com/watch?v=j6g8TqtIwKw&t=9s), which displays a comparison between our work with other works.
