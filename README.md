@@ -20,7 +20,7 @@
 
 
 <p>
-  Gif: 6DoF-HPE (left side) < align="center">
+  Gif: 6DoF-HPE (left side) 
   and one by one (right side) 
   <a href="https://kagenova.com/blog/tech/2018/07/03/6DOF-motion.html">[source]</a>
 </p>
