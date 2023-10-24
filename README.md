@@ -18,17 +18,10 @@
 </tr>
 </table>
 
-<table>
-<p>
-<td>< Gif: 6DoF-HPE (left side)></td>
-<td><one by one (right side) 
-  <a href="https://kagenova.com/blog/tech/2018/07/03/6DOF-motion.html">[source]</a>></td>  
-</p>
-</table>
 
 <p>
   Gif: 6DoF-HPE (left side)
-</p>
+
 <p align="center">
   and one by one (right side) 
   <a href="https://kagenova.com/blog/tech/2018/07/03/6DOF-motion.html">[source]</a>
