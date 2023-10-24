@@ -9,9 +9,14 @@
 
 # Results visualization
 
-<p align="center">
-  <img src="https://github.com/Redhwan-A/6DoF-HPE/blob/main/gif/6DoF-Hpe.gif" alt="animated" />
-</p>
+
+
+<table>
+<tr>
+<td><img src="https://github.com/Redhwan-A/6DoF-HPE/blob/main/gif/6DoF-Hpe.gif" height="240"></td>
+<td><img src="https://github.com/Redhwan-A/6DoF-HPE/blob/main/gif/6DoF.gif" height="240"></td> 
+</tr>
+</table>
 
 <p align="center">  
 Gif: 6DoF-HPE.  
