@@ -18,7 +18,7 @@
 </tr>
 </table>
 
-<p align="center">  
+<p>  
 Gif: 6DoF-HPE.  
 </p>
 
