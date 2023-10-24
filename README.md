@@ -19,7 +19,7 @@
 </table>
 
 
- <p align="center">>  
+ <p align="center">  
 Gif: 6DoF-HPE (left side) and one by one (right side [source on 2023.10.24](https://kagenova.com/blog/tech/2018/07/03/6DOF-motion.html)).  
 </p>
 
