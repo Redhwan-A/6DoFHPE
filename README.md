@@ -120,7 +120,7 @@ roslaunch realsense2_camera rs_camera.launch filters:=pointcloud,colorizer align
 Then, run:
 
 ```
-emo_6DoF.py
+demo_6DoF.py
 ```
 
 
