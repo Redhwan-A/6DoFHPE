@@ -1,5 +1,5 @@
 # 6DoFHPE
-**Paper titled: Real-time 6DoF Full-Range Markerless Head Pose Estimation [here]([https://www.youtube.com/watch?v=WWmBZ_2eiaE](https://www.sciencedirect.com/science/article/pii/S0957417423027951))**
+**Paper titled: Real-time 6DoF Full-Range Markerless Head Pose Estimation [here](https://www.sciencedirect.com/science/article/pii/S0957417423027951)**
 
 
 
