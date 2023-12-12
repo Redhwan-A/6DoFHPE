@@ -128,12 +128,13 @@ demo_6DoF.py
 # Citing
 
 ```
-@article{algabri2023real,
+@article{algabri2024real,
   title={Real-time 6DoF full-range markerless head pose estimation},
   author={Algabri, Redhwan and Shin, Hyunsoo and Lee, Sungon},
   journal={Expert Systems with Applications},
+  volume={239},
   pages={122293},
-  year={2023},
+  year={2024},
   publisher={Elsevier}
 }
 ```
