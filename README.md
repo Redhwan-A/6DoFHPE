@@ -123,7 +123,7 @@ Then, run:
 demo_6DoF.py
 ```
 
-## **Training**
+## **Training for rotational (yaw, pitch, and roll)  components**
 
 If you **only** need to change the pre-trained RepVGG model '**RepVGG-B1g4-train.pth**' please see [here](https://drive.google.com/drive/folders/1Avome4KvNp0Lqh2QwhXO6L5URQjzCjUq) and save it in the root directory.
 
@@ -134,7 +134,7 @@ python3 train.py
 
 After training is done. Next step.
 
-##  **Deploy models**
+##  **Deploy models for rotational (yaw, pitch, and roll)  components**
 
 For reparameterization, the trained models into inference models use the convert script.
 
@@ -146,7 +146,7 @@ After converting the training model into an inference model.
 Then, you can test your model.
 
 
-## **Testing**:
+## **Testing for rotational (yaw, pitch, and roll)  components**:
 
 ```
 python3 test.py
